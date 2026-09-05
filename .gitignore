@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+# Runtime data — not source, don't commit
+recordings/
+output/
+*.mkv
+*.mp4
+*.npy
+preview.jpg
+
+# Downloaded/exported model weights
+*.pt
+yolov8n_ncnn_model/
